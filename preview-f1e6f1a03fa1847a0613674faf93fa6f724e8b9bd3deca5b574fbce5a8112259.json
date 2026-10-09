@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "learner-card-vnext/4",
+  "word": "preview",
+  "ipa": "US /pɹˈiːvjuː/ · UK /pɹˈiːvjuː/",
+  "wordFamily": [
+    {
+      "spelling": "view",
+      "partOfSpeech": "verb",
+      "meaningZhHant": "觀看；檢視",
+      "relationship": "direct_derivative"
+    }
+  ],
+  "irregularForms": [],
+  "morphology": {
+    "mode": "components",
+    "parts": [
+      {
+        "form": "pre",
+        "type": "prefix",
+        "language": "Latin",
+        "meaningZhHant": "前；預先",
+        "displayForm": "pre-",
+        "displayMeaningZhHant": "前；預先"
+      }
+    ],
+    "summaryZhHant": "pre- 表示「預先」，加上英語詞基 view（觀看），構成「提前看」的意思。",
+    "memoryBridgeZhHant": "想像按下列印前，螢幕先讓你看到紙張上的版面。"
+  },
+  "meaningSummary": [
+    {
+      "partOfSpeech": "noun",
+      "meaningZhHant": "預覽；預展；預告片"
+    },
+    {
+      "partOfSpeech": "verb",
+      "meaningZhHant": "預先觀看或展示"
+    }
+  ],
+  "concepts": [
+    {
+      "priority": "primary",
+      "labelZhHant": "搶先看與提前體驗",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "正式公開或活動開始前的展示、介紹或初步體驗；也可指完整作品的提前放映或展出。"
+        },
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "直接接受詞，表示提前觀看或展示內容；內容不一定尚未完成。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "a preview of something",
+          "meaningZhHant": "某事物的提前介紹或觀看機會；of 後接預覽的內容。"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "sneak preview",
+          "meaningZhHant": "搶先看；正式公開前讓部分觀眾先看，可指整部作品或部分內容。"
+        }
+      ],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "We attended a sneak preview of the entire film a week before its official release.",
+        "translationZhHant": "我們在電影正式上映前一週，參加了整部電影的搶先放映。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.preview.concept.9106484577ccaa60"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "操作前檢視效果",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "列印、發布或儲存前，用來檢查文件、圖片或修改效果的畫面或功能。"
+        },
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "直接接文件、圖片等受詞，表示先檢視呈現效果；預覽本身不代表已完成列印或發布。"
+        }
+      ],
+      "expressions": [],
+      "phrases": [
+        {
+          "phrase": "print preview",
+          "meaningZhHant": "列印預覽：先查看頁面實際列印時的版面。"
+        }
+      ],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "Preview the document before printing to make sure the table fits on one page.",
+        "translationZhHant": "列印前先預覽文件，確認表格能完整放在同一頁上。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.preview.concept.a71a2b09a7376277"
+    },
+    {
+      "priority": "secondary",
+      "labelZhHant": "電影或節目的預告片",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "以剪輯片段宣傳作品的短片；與提前放映整部作品的場次不同。"
+        }
+      ],
+      "expressions": [],
+      "phrases": [],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "trailer",
+          "partOfSpeech": "noun",
+          "meaningZhHant": "電影或節目的宣傳預告片"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "The thirty-second preview showed a few exciting scenes from the new series.",
+        "translationZhHant": "這支三十秒的預告片呈現了新影集中的幾個精彩片段。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.preview.concept.1918c35fd125db90"
+    }
+  ],
+  "mainExample": {
+    "conceptKey": "word.preview.concept.9106484577ccaa60",
+    "sentenceEn": "We attended a sneak preview of the entire film a week before its official release.",
+    "translationZhHant": "我們在電影正式上映前一週，參加了整部電影的搶先放映。"
+  },
+  "headwordExpressions": [],
+  "confusables": [
+    {
+      "spelling": "privy",
+      "linkTarget": "word.privy"
+    },
+    {
+      "spelling": "revue",
+      "linkTarget": "word.revue"
+    }
+  ]
+}

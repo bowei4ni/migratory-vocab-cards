@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "learner-card-vnext/4",
+  "word": "borrow",
+  "ipa": "US /ˈbɑɹ.oʊ/ · UK /ˈbɒɹə/",
+  "wordFamily": [
+    {
+      "spelling": "borrower",
+      "partOfSpeech": "noun",
+      "meaningZhHant": "借用者；借款人",
+      "relationship": "direct_derivative"
+    }
+  ],
+  "irregularForms": [],
+  "morphology": null,
+  "meaningSummary": [
+    {
+      "partOfSpeech": "verb",
+      "meaningZhHant": "借入；借用；借鑑；借位"
+    }
+  ],
+  "concepts": [
+    {
+      "priority": "primary",
+      "labelZhHant": "借入物品或金錢",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "主詞是借入者；物品通常須歸還，金錢則須償還。口語也可用於紙張等不會原物歸還的小物品。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "borrow something from someone",
+          "meaningZhHant": "向某人借某物；from 後接出借者，也可接銀行、圖書館等機構。"
+        },
+        {
+          "expression": "borrow something for someone",
+          "meaningZhHant": "替某人借某物；一般標準用法用 for 表示受益者，避免套用 lend someone something 的句型。"
+        }
+      ],
+      "phrases": [],
+      "relations": [
+        {
+          "kind": "antonym",
+          "spelling": "lend",
+          "partOfSpeech": "verb",
+          "meaningZhHant": "借出；與 borrow 表示同一借貸關係的相反方向，主詞是出借者。"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "I borrowed a picture book from the library for my daughter.",
+        "translationZhHant": "我替女兒向圖書館借了一本繪本。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.borrow.concept.bf9fdb2b4c6bfacf"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "借鑑與借入語詞",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "採用他人的想法、風格或做法，也可指一種語言採用另一種語言的詞語；不含日後歸還之意，也不必然指抄襲。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "borrow something from something",
+          "meaningZhHant": "從某作品、傳統或語言借用某個元素；from 標示來源。"
+        }
+      ],
+      "phrases": [],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "adopt",
+          "partOfSpeech": "verb",
+          "meaningZhHant": "採用；在採用想法、做法或外來詞的語境中意思相近，較不強調取自別處。"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "The architect borrowed ideas from traditional Taiwanese houses when designing the hotel.",
+        "translationZhHant": "這位建築師設計飯店時，借鑑了臺灣傳統民居的構想。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.borrow.concept.2534f385503fa262"
+    },
+    {
+      "priority": "secondary",
+      "labelZhHant": "暫借對方的時間",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "非正式用法，以人作受詞，請對方暫時離開手邊的事，來談話或幫忙。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "borrow someone for a moment",
+          "meaningZhHant": "請某人撥一點時間過來。"
+        }
+      ],
+      "phrases": [],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "Can I borrow you for a moment to help me move this table?",
+        "translationZhHant": "可以請你過來一下，幫我搬這張桌子嗎？"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.borrow.concept.a9762c5c716f1ee8"
+    },
+    {
+      "priority": "secondary",
+      "labelZhHant": "減法借位",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "直式減法中，某一位不夠減時，從較高位取一個單位，換成目前這一位的十個單位。"
+        }
+      ],
+      "expressions": [],
+      "phrases": [],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "To subtract 38 from 52, you need to borrow from the tens column.",
+        "translationZhHant": "計算 52 減 38 時，你需要向十位借位。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.borrow.concept.90ae1f3754717e67"
+    }
+  ],
+  "mainExample": {
+    "conceptKey": "word.borrow.concept.bf9fdb2b4c6bfacf",
+    "sentenceEn": "I borrowed a picture book from the library for my daughter.",
+    "translationZhHant": "我替女兒向圖書館借了一本繪本。"
+  },
+  "headwordExpressions": [
+    {
+      "expression": "borrow trouble",
+      "meaningZhHant": "為尚未發生的問題預先煩惱；常用於勸人別徒增憂慮。",
+      "examples": [
+        {
+          "sentenceEn": "Don't borrow trouble by assuming your interview will go badly.",
+          "translationZhHant": "別先認定面試會不順利，讓自己白白擔心。"
+        }
+      ]
+    },
+    {
+      "expression": "be living on borrowed time",
+      "meaningZhHant": "在原本預期會死亡或結束之後仍繼續存活或存在，但可能隨時終止。",
+      "examples": [
+        {
+          "sentenceEn": "This old car is living on borrowed time, and the mechanic says it could stop working any day.",
+          "translationZhHant": "這輛老車已經撐得比預期久了，修車師傅說它隨時可能再也開不動。"
+        }
+      ]
+    }
+  ],
+  "confusables": [
+    {
+      "spelling": "barrow",
+      "linkTarget": "word.barrow"
+    },
+    {
+      "spelling": "burrow",
+      "linkTarget": "word.burrow"
+    },
+    {
+      "spelling": "morrow",
+      "linkTarget": "word.morrow"
+    },
+    {
+      "spelling": "sorrow",
+      "linkTarget": "word.sorrow"
+    },
+    {
+      "spelling": "barrio",
+      "linkTarget": "word.barrio"
+    }
+  ]
+}

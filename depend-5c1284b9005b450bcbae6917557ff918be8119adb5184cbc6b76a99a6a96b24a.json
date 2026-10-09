@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "learner-card-vnext/4",
+  "word": "depend",
+  "ipa": "US /dɪˈpɛnd/ · UK /dɪˈpɛnd/",
+  "wordFamily": [
+    {
+      "spelling": "dependent",
+      "partOfSpeech": "adjective",
+      "meaningZhHant": "依賴的；取決於…的，常接 on",
+      "relationship": "direct_derivative"
+    },
+    {
+      "spelling": "dependence",
+      "partOfSpeech": "noun",
+      "meaningZhHant": "依賴；依存，常接 on",
+      "relationship": "direct_derivative"
+    },
+    {
+      "spelling": "dependable",
+      "partOfSpeech": "adjective",
+      "meaningZhHant": "可靠的；值得信賴的",
+      "relationship": "direct_derivative"
+    },
+    {
+      "spelling": "dependant",
+      "partOfSpeech": "noun",
+      "meaningZhHant": "受扶養者；依靠他人供養的人（英式常用拼法）",
+      "relationship": "direct_derivative"
+    }
+  ],
+  "irregularForms": [],
+  "morphology": {
+    "mode": "components",
+    "parts": [
+      {
+        "form": "de",
+        "type": "prefix",
+        "language": "Latin",
+        "meaningZhHant": "下；脫離",
+        "displayForm": "de-",
+        "displayMeaningZhHant": "下；脫離"
+      },
+      {
+        "form": "pend",
+        "type": "root",
+        "language": "Latin",
+        "meaningZhHant": "懸掛",
+        "displayForm": "pend",
+        "displayMeaningZhHant": "懸掛"
+      }
+    ],
+    "summaryZhHant": "de- 在此表示「向下」，pend 表示「懸掛」；原有向下懸掛的意象，延伸為依靠支撐或受條件左右。",
+    "memoryBridgeZhHant": "想像一盞吊燈：它靠吊繩支撐，位置也由吊繩決定。"
+  },
+  "meaningSummary": [
+    {
+      "partOfSpeech": "verb",
+      "meaningZhHant": "取決於；依靠；信賴"
+    }
+  ],
+  "concepts": [
+    {
+      "priority": "primary",
+      "labelZhHant": "取決於條件",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "結果或選擇由某個條件決定。現代常用義為不及物動詞，接依據時通常用 on；upon 較正式。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "depend on/upon + noun",
+          "meaningZhHant": "取決於某個因素"
+        },
+        {
+          "expression": "depend on whether/what/how …",
+          "meaningZhHant": "取決於是否…、什麼…或如何…；後接子句用直述句語序"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "depending on + noun or clause",
+          "meaningZhHant": "視…而有所不同；可在句首或句尾補充影響結果的條件"
+        },
+        {
+          "phrase": "make A depend on B",
+          "meaningZhHant": "使 A 取決於 B；make 後的 depend 用原形"
+        }
+      ],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "hinge on",
+          "partOfSpeech": "verb",
+          "meaningZhHant": "取決於某個關鍵因素；強調該因素對結果的重要性"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "Whether we have a picnic tomorrow depends on the weather.",
+        "translationZhHant": "我們明天是否去野餐，取決於天氣。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.depend.concept.dc404fe3d95f708b"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "依靠與信賴",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "可指需要他人的供養或某物的支持才能生活、運作，也可指相信對方可靠、能辦到所需的事。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "depend on/upon someone or something",
+          "meaningZhHant": "依靠或信賴某人、某物"
+        },
+        {
+          "expression": "depend on/upon someone to do something",
+          "meaningZhHant": "指望某人做某事"
+        },
+        {
+          "expression": "depend on/upon someone or something for + noun",
+          "meaningZhHant": "依靠某人或某物取得所需的資源、協助等"
+        },
+        {
+          "expression": "as if one's life depended on it",
+          "meaningZhHant": "像性命全繫於此般拼命；常用誇張語氣強調投入程度"
+        }
+      ],
+      "phrases": [],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "rely on",
+          "partOfSpeech": "verb",
+          "meaningZhHant": "依靠；信賴某人或某物提供支持或完成事情"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "My younger sister depends on me for financial support, and she knows she can depend on me to pay her rent on time.",
+        "translationZhHant": "我妹妹靠我提供經濟支援，也知道可以信賴我按時替她付房租。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.depend.concept.95aadafa99889a5e"
+    }
+  ],
+  "mainExample": {
+    "conceptKey": "word.depend.concept.dc404fe3d95f708b",
+    "sentenceEn": "Whether we have a picnic tomorrow depends on the weather.",
+    "translationZhHant": "我們明天是否去野餐，取決於天氣。"
+  },
+  "headwordExpressions": [
+    {
+      "expression": "It depends.",
+      "meaningZhHant": "要看情況；可單獨回答，表示目前無法一概而論",
+      "examples": [
+        {
+          "sentenceEn": "It depends.",
+          "translationZhHant": "要看情況。"
+        }
+      ]
+    }
+  ],
+  "confusables": [
+    {
+      "spelling": "defend",
+      "linkTarget": "word.defend"
+    },
+    {
+      "spelling": "descend",
+      "linkTarget": "word.descend"
+    }
+  ]
+}

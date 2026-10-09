@@ -1,0 +1,226 @@
+{
+  "schemaVersion": "learner-card-vnext/4",
+  "word": "issue",
+  "ipa": "US /ˈɪʃ(j)u/ · UK /ˈɪsjʉw/",
+  "wordFamily": [
+    {
+      "spelling": "issuance",
+      "partOfSpeech": "noun",
+      "meaningZhHant": "發行；核發（正式用語）",
+      "relationship": "direct_derivative"
+    },
+    {
+      "spelling": "issuer",
+      "partOfSpeech": "noun",
+      "meaningZhHant": "發行者；核發機構",
+      "relationship": "direct_derivative"
+    },
+    {
+      "spelling": "reissue",
+      "partOfSpeech": "verb",
+      "meaningZhHant": "重新發行；重新核發",
+      "relationship": "direct_derivative"
+    }
+  ],
+  "irregularForms": [],
+  "morphology": null,
+  "meaningSummary": [
+    {
+      "partOfSpeech": "noun",
+      "meaningZhHant": "議題；問題；期刊的一期；發行"
+    },
+    {
+      "partOfSpeech": "verb",
+      "meaningZhHant": "發布；核發；配發；發行；流出"
+    }
+  ],
+  "concepts": [
+    {
+      "priority": "primary",
+      "labelZhHant": "議題與爭點",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "需要討論、決定或處理的事項；也指法律案件中的爭點，不一定表示出了狀況。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "take issue with someone/something",
+          "meaningZhHant": "對某人的說法或某事提出異議；表示不認同。"
+        },
+        {
+          "expression": "at issue",
+          "meaningZhHant": "正在討論、爭論或等待裁定的。"
+        },
+        {
+          "expression": "make an issue of something / make an issue out of something",
+          "meaningZhHant": "把某事當成大問題來爭論；常暗示小題大作。"
+        }
+      ],
+      "phrases": [],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "matter",
+          "partOfSpeech": "noun",
+          "meaningZhHant": "待討論或處理的事項；matter 的範圍較廣，不必涉及爭議。"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "The main issue we need to discuss is whether to keep the library open on Sundays.",
+        "translationZhHant": "我們需要討論的主要議題是，圖書館是否應該在星期日開放。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.issue.concept.7de83ef439e2493e"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "問題與困擾",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "需要解決的困難或故障；相較於 problem，有時語氣較委婉或描述較含糊。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "have an issue with someone/something",
+          "meaningZhHant": "對某人或某事有異議、不滿，或在使用、處理某事時遇到困難；依上下文判斷。"
+        },
+        {
+          "expression": "have issues",
+          "meaningZhHant": "非正式用法：有尚未解決的心理、情緒或人際困擾；直接用來形容別人可能帶批評意味。"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "trust issues",
+          "meaningZhHant": "難以信任他人的困擾；不只是某次不相信某人的說法。"
+        }
+      ],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "problem",
+          "partOfSpeech": "noun",
+          "meaningZhHant": "需要解決的問題或困難；通常比 issue 更直接指出出了問題。"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "We're having an issue with the printer: it keeps leaving blank pages in the middle of documents.",
+        "translationZhHant": "我們的印表機出了點問題：列印文件時，中間一直會出現空白頁。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.issue.concept.36b0b8d632188499"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "期刊的一期",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "可數名詞，指報紙、雜誌等定期刊物某次出版的那一期，不是其中的一篇文章。"
+        }
+      ],
+      "expressions": [],
+      "phrases": [
+        {
+          "phrase": "back issue",
+          "meaningZhHant": "先前出版的某一期；過期期刊。"
+        }
+      ],
+      "relations": [
+        {
+          "kind": "synonym",
+          "spelling": "edition",
+          "partOfSpeech": "noun",
+          "meaningZhHant": "報刊某次出版的版本；在報刊語境中與 issue 有重疊，也可區分地區版等版本。"
+        }
+      ],
+      "primaryExample": {
+        "sentenceEn": "I found a useful article about sleep in a back issue of this magazine.",
+        "translationZhHant": "我在這本雜誌先前出版的一期中，找到一篇很實用的睡眠相關文章。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.issue.concept.ca0e317e11ec6107"
+    },
+    {
+      "priority": "primary",
+      "labelZhHant": "正式發出與發行",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "及物動詞，常由機關或組織發布聲明、警告，核發證件，配發物資，或發行貨幣、證券。"
+        },
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "指發行、核發或配發的行為；也可指同一批發行的物品或證券。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "issue something to someone",
+          "meaningZhHant": "將某物核發或配發給某人；物品放在 issue 後，領取者放在 to 後。"
+        },
+        {
+          "expression": "issue someone with something",
+          "meaningZhHant": "配發某物給某人；領取者放在 issue 後，物品放在 with 後，尤常見於英式英語。"
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "bond issue",
+          "meaningZhHant": "債券發行；也指某次發行的一批債券。"
+        },
+        {
+          "phrase": "standard-issue + noun",
+          "meaningZhHant": "標準配發的……；常修飾制服或裝備，也可引申為普通、制式的。"
+        }
+      ],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "The company issued bonds to fund the new factory, and the entire issue sold within a day.",
+        "translationZhHant": "這家公司發行債券來籌措興建新工廠的資金，而這批債券在一天內就全數售出。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.issue.concept.0f6eb176801f6709"
+    },
+    {
+      "priority": "secondary",
+      "labelZhHant": "從來源流出",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "較正式或文學性的不及物用法，可指液體、煙霧或聲音從某處流出、冒出或傳出。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "issue from something",
+          "meaningZhHant": "從某處或某個來源流出、發出；from 後接來源。"
+        }
+      ],
+      "phrases": [],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "Thick smoke issued from the kitchen, and everyone hurried outside.",
+        "translationZhHant": "濃煙從廚房冒出，大家都趕緊跑到外面。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.issue.concept.2801fda39952627f"
+    }
+  ],
+  "mainExample": {
+    "conceptKey": "word.issue.concept.7de83ef439e2493e",
+    "sentenceEn": "The main issue we need to discuss is whether to keep the library open on Sundays.",
+    "translationZhHant": "我們需要討論的主要議題是，圖書館是否應該在星期日開放。"
+  },
+  "headwordExpressions": [],
+  "confusables": [
+    {
+      "spelling": "tissue",
+      "linkTarget": "word.tissue"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "learner-card-vnext/4",
+  "word": "ladle",
+  "ipa": "US /ˈleɪ.dəl/ · UK /ˈleɪ.dəl/",
+  "wordFamily": [],
+  "irregularForms": [],
+  "morphology": null,
+  "meaningSummary": [
+    {
+      "partOfSpeech": "noun",
+      "meaningZhHant": "長柄湯杓"
+    },
+    {
+      "partOfSpeech": "verb",
+      "meaningZhHant": "用杓舀取；大量給予"
+    }
+  ],
+  "concepts": [
+    {
+      "priority": "primary",
+      "labelZhHant": "湯杓與舀取",
+      "meaningLines": [
+        {
+          "partOfSpeech": "noun",
+          "meaningZhHant": "可數；杓面深、柄長，用來盛湯、醬汁等，不是一般吃飯用的湯匙。"
+        },
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "用這類杓子盛取或分裝；受詞通常是湯、醬汁等食物或液體。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "ladle something into a container",
+          "meaningZhHant": "把某物舀入容器；into 後接盛裝的容器。"
+        },
+        {
+          "expression": "ladle something out",
+          "meaningZhHant": "把食物舀出來分給大家；受詞是代名詞時放在中間，如 ladle it out。"
+        }
+      ],
+      "phrases": [],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "She picked up the ladle and ladled the soup into bowls.",
+        "translationZhHant": "她拿起湯杓，把湯舀進碗裡。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.ladle.concept.33645c371a183bcc"
+    },
+    {
+      "priority": "secondary",
+      "labelZhHant": "大量給予",
+      "meaningLines": [
+        {
+          "partOfSpeech": "verb",
+          "meaningZhHant": "大量給予讚美、建議等；屬比喻用法，常帶給得過多或毫不節制的語氣。"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "ladle out praise / advice",
+          "meaningZhHant": "大把給予讚美／建議；這類抽象用法常搭配 out。"
+        }
+      ],
+      "phrases": [],
+      "relations": [],
+      "primaryExample": {
+        "sentenceEn": "The manager ladled out praise for even the smallest achievements.",
+        "translationZhHant": "主管連對最微小的成就都大加讚賞。"
+      },
+      "secondaryExamples": [],
+      "conceptKey": "word.ladle.concept.6d37409225b22705"
+    }
+  ],
+  "mainExample": {
+    "conceptKey": "word.ladle.concept.33645c371a183bcc",
+    "sentenceEn": "She picked up the ladle and ladled the soup into bowls.",
+    "translationZhHant": "她拿起湯杓，把湯舀進碗裡。"
+  },
+  "headwordExpressions": [],
+  "confusables": [
+    {
+      "spelling": "label",
+      "linkTarget": "word.label"
+    },
+    {
+      "spelling": "laden",
+      "linkTarget": "word.laden"
+    }
+  ]
+}
